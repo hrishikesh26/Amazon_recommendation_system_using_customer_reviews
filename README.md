@@ -157,7 +157,7 @@ pip install -r requirements.txt
   - Open and execute the desired notebooks sequentially.
 
 ## **Contributors**
-- Simran Mhaske 
+   - Simran Mhaske 
 
   - Hrishikesh Pawar 
 
